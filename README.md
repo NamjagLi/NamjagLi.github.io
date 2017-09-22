@@ -1,9 +1,4 @@
-# HuxBlog Boilerplate
+# NamjagLi Blog : [namcha-loiter](namcha-loiter.com)
+## I am just beginner of programing and engineering. Main reason for doing this just for interest.
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+### The theme of blog is based on This  boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there! if want to fork his theme. 
