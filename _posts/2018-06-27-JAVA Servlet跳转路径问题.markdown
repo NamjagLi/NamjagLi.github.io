@@ -32,11 +32,11 @@ resp.sendRedirect("student/list");
 
 另附：java中对于此路径参数的解释：
 
->"Sends a temporary redirect response to the client using the specified redirect location URL. This method can accept relative URLs;"
->"the servlet container must convert the relative URL to an absolute URL before sending the response to the client. "
->"If the location is relative without a leading '/' the container interprets it as relative to the current request URI. "
->"If the location is relative with a leading '/' the container interprets it as relative to the servlet container root. "
->"If the response has already been committed, this method throws an IllegalStateException. 
->"After using this method, the response should be considered to be committed and should not be written to."
+>"Sends a temporary redirect response to the client using the specified redirect location URL. This method can accept relative URLs;
+>the servlet container must convert the relative URL to an absolute URL before sending the response to the client. 
+>If the location is relative without a leading '/' the container interprets it as relative to the current request URI. 
+>If the location is relative with a leading '/' the container interprets it as relative to the servlet container root. 
+>If the response has already been committed, this method throws an IllegalStateException. 
+>After using this method, the response should be considered to be committed and should not be written to."
 
 
