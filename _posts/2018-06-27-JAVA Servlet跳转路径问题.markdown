@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Java Servlet URL重定向路径符号问题"
-subtitle:   " \"Hello World, Hello Blog, My Friend\""
+subtitle:   " \"Java servlet 思考\""
 date:       2018-06-27 13:26:00
 author:     "南迦闲游"
 header-img: "img/post-bg-Java-Servlet-Introduction-Overview-and-Life-Cycle.png"
@@ -9,8 +9,6 @@ catalog: true
 tags:
     - JAVA
 ---
-
-> “Yeah It's on. ”
 
 
 
